@@ -1,6 +1,10 @@
 # 석세권 뱅크 (SSAFY FINAL PROJECT)
 
 ## 0. 미리보기
+![Vite App - Chrome 2023-12-26 05-04-36](https://github.com/songminseok0725/ssafy_PJT/assets/139418961/9e0c494f-3cf0-4ab2-b3b1-2077ddb905b1)
+![Vite App - Chrome 2023-12-26 05-04-50](https://github.com/songminseok0725/ssafy_PJT/assets/139418961/896f4985-0137-40ab-a2b6-4c5004ae3263)
+![Vite App - Chrome 2023-12-26 05-05-16](https://github.com/songminseok0725/ssafy_PJT/assets/139418961/43369f01-8740-457b-82c5-cb3344cdfa7b)
+![Vite App - Chrome 2023-12-26 05-05-44](https://github.com/songminseok0725/ssafy_PJT/assets/139418961/a2f2b8b7-983f-40f2-a4dd-41d8da82bf9d)
 
 
 ## 1. 팀원정보 및 업무 분담 내역
